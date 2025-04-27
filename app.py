@@ -23,4 +23,4 @@ if uploaded_file is not None:
     if prediction[0][0] > 0.5:
         st.error("Result: Tumor Detected 🧠⚠️")
     else:
-        st.success("Result: No Tumor Detected ✅"
+        st.success("Result: No Tumor Detected ✅")
