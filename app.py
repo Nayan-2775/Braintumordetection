@@ -88,3 +88,4 @@ elif uploaded_file and not patient_name:
 # ========== Footer ==========
 st.markdown("---")
 st.caption("© 2025 Brain Tumor Detection Project | Made with Streamlit 🚀")
+
